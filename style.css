@@ -1,0 +1,50 @@
+.container{
+border: 10px solid darkgreen;
+padding: 24px 24px 0 24px;
+}
+
+.box-medium{   
+height: 50px;
+border: 6px solid green;
+
+}
+
+.box-small{
+width: 28%;
+height: 50px;
+border: 4px solid lightgreen;
+
+}
+
+.box-wrapper{
+width: 50%;
+display: flex;
+flex-direction:column;
+
+}
+
+.small-wrapper{
+ display: flex;
+ justify-content: space-between;   
+}
+
+.box{
+    margin-bottom: 24px;
+}
+
+.box-large{
+ width: 40%;   
+ border: 8px solid forestgreen;
+}
+
+
+ .row{
+ width: 100%;    
+ max-width: px;
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-between;
+ }
+ 
+ 
+    
